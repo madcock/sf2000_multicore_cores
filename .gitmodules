@@ -20,3 +20,6 @@
 [submodule "retro8"]
 	path = retro8
 	url = https://github.com/madcock/retro8
+[submodule "vaporspec"]
+	path = vaporspec
+	url = https://github.com/madcock/vaporspec
