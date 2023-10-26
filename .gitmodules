@@ -17,3 +17,6 @@
 [submodule "FreeChaF"]
 	path = FreeChaF
 	url = https://github.com/madcock/FreeChaF
+[submodule "retro8"]
+	path = retro8
+	url = https://github.com/madcock/retro8
