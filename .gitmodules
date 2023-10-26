@@ -11,3 +11,6 @@
 [submodule "jaxe"]
 	path = jaxe
 	url = https://github.com/madcock/jaxe
+[submodule "Gearcoleco"]
+	path = Gearcoleco
+	url = https://github.com/madcock/Gearcoleco
