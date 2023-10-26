@@ -14,3 +14,6 @@
 [submodule "Gearcoleco"]
 	path = Gearcoleco
 	url = https://github.com/madcock/Gearcoleco
+[submodule "FreeChaF"]
+	path = FreeChaF
+	url = https://github.com/madcock/FreeChaF
