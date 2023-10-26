@@ -1,3 +1,4 @@
 [submodule "libretro-2048"]
 	path = libretro-2048
 	url = https://github.com/madcock/libretro-2048
+	branch = master
