@@ -8,3 +8,6 @@
 [submodule "libretro-handy"]
 	path = libretro-handy
 	url = https://github.com/madcock/libretro-handy
+[submodule "jaxe"]
+	path = jaxe
+	url = https://github.com/madcock/jaxe
