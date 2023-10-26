@@ -23,3 +23,6 @@
 [submodule "vaporspec"]
 	path = vaporspec
 	url = https://github.com/madcock/vaporspec
+[submodule "gong"]
+	path = gong
+	url = https://github.com/madcock/gong
