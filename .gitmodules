@@ -47,3 +47,6 @@
 [submodule "libretro-fceumm"]
 	path = libretro-fceumm
 	url = https://github.com/madcock/libretro-fceumm
+[submodule "snes9x2002"]
+	path = snes9x2002
+	url = https://github.com/madcock/snes9x2002
