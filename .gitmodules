@@ -35,3 +35,6 @@
 [submodule "libretro-beetle-pce-fast"]
 	path = libretro-beetle-pce-fast
 	url = https://github.com/madcock/libretro-beetle-pce-fast
+[submodule "gpsp"]
+	path = gpsp
+	url = https://github.com/madcock/gpsp
