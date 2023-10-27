@@ -65,3 +65,6 @@
 [submodule "theodore"]
 	path = theodore
 	url = https://github.com/madcock/theodore
+[submodule "Genesis-Plus-GX"]
+	path = Genesis-Plus-GX
+	url = https://github.com/madcock/Genesis-Plus-GX
