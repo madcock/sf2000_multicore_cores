@@ -113,3 +113,6 @@
 [submodule "libretro-beetle-vb"]
 	path = libretro-beetle-vb
 	url = https://github.com/madcock/libretro-beetle-vb
+[submodule "libretro-xmil"]
+	path = libretro-xmil
+	url = https://github.com/madcock/libretro-xmil
