@@ -86,3 +86,6 @@
 [submodule "libretro-prosystem"]
 	path = libretro-prosystem
 	url = https://github.com/madcock/libretro-prosystem
+[submodule "libretro-beetle-lynx"]
+	path = libretro-beetle-lynx
+	url = https://github.com/madcock/libretro-beetle-lynx
