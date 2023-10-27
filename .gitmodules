@@ -74,3 +74,6 @@
 [submodule "libretro-crocods"]
 	path = libretro-crocods
 	url = https://github.com/madcock/libretro-crocods
+[submodule "libretro-mame2003-plus"]
+	path = libretro-mame2003-plus
+	url = https://github.com/madcock/libretro-mame2003-plus
