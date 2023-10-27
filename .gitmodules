@@ -44,3 +44,6 @@
 [submodule "libretro-tgbdual"]
 	path = libretro-tgbdual
 	url = https://github.com/madcock/libretro-tgbdual
+[submodule "libretro-fceumm"]
+	path = libretro-fceumm
+	url = https://github.com/madcock/libretro-fceumm
