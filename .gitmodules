@@ -104,3 +104,6 @@
 [submodule "libretro-o2em"]
 	path = libretro-o2em
 	url = https://github.com/madcock/libretro-o2em
+[submodule "libretro-beetle-supergrafx"]
+	path = libretro-beetle-supergrafx
+	url = https://github.com/madcock/libretro-beetle-supergrafx
