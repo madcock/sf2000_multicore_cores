@@ -80,3 +80,6 @@
 [submodule "arduous"]
 	path = arduous
 	url = https://github.com/madcock/arduous
+[submodule "a5200"]
+	path = a5200
+	url = https://github.com/madcock/a5200
