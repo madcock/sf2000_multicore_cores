@@ -68,3 +68,6 @@
 [submodule "Genesis-Plus-GX"]
 	path = Genesis-Plus-GX
 	url = https://github.com/madcock/Genesis-Plus-GX
+[submodule "potator"]
+	path = potator
+	url = https://github.com/madcock/potator
