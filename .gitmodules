@@ -38,3 +38,6 @@
 [submodule "gpsp"]
 	path = gpsp
 	url = https://github.com/madcock/gpsp
+[submodule "RACE"]
+	path = RACE
+	url = https://github.com/madcock/RACE
