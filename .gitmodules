@@ -62,6 +62,3 @@
 [submodule "libretro-fuse"]
 	path = libretro-fuse
 	url = https://github.com/madcock/libretro-fuse
-[submodule "theodore"]
-	path = theodore
-	url = https://github.com/madcock/theodore
