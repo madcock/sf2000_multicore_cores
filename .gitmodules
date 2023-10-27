@@ -2,9 +2,9 @@
 	path = libretro-2048
 	url = https://github.com/madcock/libretro-2048
 	branch = master
-[submodule "stella2014-libretro"]
+[submodule "libretro-stella2014"]
 	path = libretro-stella2014
-	url = https://github.com/madcock/stella2014-libretro
+	url = https://github.com/madcock/libretro-stella2014
 [submodule "libretro-handy"]
 	path = libretro-handy
 	url = https://github.com/madcock/libretro-handy
