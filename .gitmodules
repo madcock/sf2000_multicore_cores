@@ -107,3 +107,6 @@
 [submodule "libretro-beetle-supergrafx"]
 	path = libretro-beetle-supergrafx
 	url = https://github.com/madcock/libretro-beetle-supergrafx
+[submodule "libretro-beetle-pcfx"]
+	path = libretro-beetle-pcfx
+	url = https://github.com/madcock/libretro-beetle-pcfx
