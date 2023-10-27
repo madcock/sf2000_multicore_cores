@@ -89,3 +89,6 @@
 [submodule "libretro-beetle-lynx"]
 	path = libretro-beetle-lynx
 	url = https://github.com/madcock/libretro-beetle-lynx
+[submodule "lowres-nx"]
+	path = lowres-nx
+	url = https://github.com/madcock/lowres-nx
