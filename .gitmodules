@@ -29,3 +29,6 @@
 [submodule "libretro-pocketcdg"]
 	path = libretro-pocketcdg
 	url = https://github.com/madcock/libretro-pocketcdg
+[submodule "libretro-gme"]
+	path = libretro-gme
+	url = https://github.com/madcock/libretro-gme
