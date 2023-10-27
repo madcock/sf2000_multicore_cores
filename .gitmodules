@@ -41,3 +41,6 @@
 [submodule "RACE"]
 	path = RACE
 	url = https://github.com/madcock/RACE
+[submodule "libretro-tgbdual"]
+	path = libretro-tgbdual
+	url = https://github.com/madcock/libretro-tgbdual
