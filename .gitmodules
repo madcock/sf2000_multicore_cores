@@ -3,7 +3,7 @@
 	url = https://github.com/madcock/libretro-2048
 	branch = master
 [submodule "stella2014-libretro"]
-	path = stella2014-libretro
+	path = libretro-stella2014
 	url = https://github.com/madcock/stella2014-libretro
 [submodule "libretro-handy"]
 	path = libretro-handy
