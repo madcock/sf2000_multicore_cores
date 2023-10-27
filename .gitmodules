@@ -95,3 +95,6 @@
 [submodule "libretro-jumpnbump"]
 	path = libretro-jumpnbump
 	url = https://github.com/madcock/libretro-jumpnbump
+[submodule "libretro-nxengine"]
+	path = libretro-nxengine
+	url = https://github.com/madcock/libretro-nxengine
