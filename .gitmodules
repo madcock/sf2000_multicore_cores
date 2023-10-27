@@ -32,3 +32,6 @@
 [submodule "libretro-gme"]
 	path = libretro-gme
 	url = https://github.com/madcock/libretro-gme
+[submodule "libretro-beetle-pce-fast"]
+	path = libretro-beetle-pce-fast
+	url = https://github.com/madcock/libretro-beetle-pce-fast
