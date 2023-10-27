@@ -101,3 +101,6 @@
 [submodule "libretro-prboom"]
 	path = libretro-prboom
 	url = https://github.com/madcock/libretro-prboom
+[submodule "libretro-o2em"]
+	path = libretro-o2em
+	url = https://github.com/madcock/libretro-o2em
