@@ -50,3 +50,6 @@
 [submodule "snes9x2002"]
 	path = snes9x2002
 	url = https://github.com/madcock/snes9x2002
+[submodule "snes9x2005"]
+	path = snes9x2005
+	url = https://github.com/madcock/snes9x2005
