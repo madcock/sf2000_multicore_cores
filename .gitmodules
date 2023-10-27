@@ -98,3 +98,6 @@
 [submodule "libretro-nxengine"]
 	path = libretro-nxengine
 	url = https://github.com/madcock/libretro-nxengine
+[submodule "libretro-prboom"]
+	path = libretro-prboom
+	url = https://github.com/madcock/libretro-prboom
