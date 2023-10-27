@@ -56,3 +56,6 @@
 [submodule "picodrive"]
 	path = picodrive
 	url = https://github.com/madcock/picodrive
+[submodule "Gearsystem"]
+	path = Gearsystem
+	url = https://github.com/madcock/Gearsystem
