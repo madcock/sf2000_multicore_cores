@@ -59,3 +59,6 @@
 [submodule "Gearsystem"]
 	path = Gearsystem
 	url = https://github.com/madcock/Gearsystem
+[submodule "libretro-fuse"]
+	path = libretro-fuse
+	url = https://github.com/madcock/libretro-fuse
