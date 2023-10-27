@@ -26,3 +26,6 @@
 [submodule "gong"]
 	path = gong
 	url = https://github.com/madcock/gong
+[submodule "libretro-pocketcdg"]
+	path = libretro-pocketcdg
+	url = https://github.com/madcock/libretro-pocketcdg
