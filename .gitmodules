@@ -110,3 +110,6 @@
 [submodule "libretro-beetle-pcfx"]
 	path = libretro-beetle-pcfx
 	url = https://github.com/madcock/libretro-beetle-pcfx
+[submodule "libretro-beetle-vb"]
+	path = libretro-beetle-vb
+	url = https://github.com/madcock/libretro-beetle-vb
