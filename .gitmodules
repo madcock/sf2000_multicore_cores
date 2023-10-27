@@ -92,3 +92,6 @@
 [submodule "lowres-nx"]
 	path = lowres-nx
 	url = https://github.com/madcock/lowres-nx
+[submodule "libretro-jumpnbump"]
+	path = libretro-jumpnbump
+	url = https://github.com/madcock/libretro-jumpnbump
