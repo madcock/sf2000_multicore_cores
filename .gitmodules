@@ -122,3 +122,6 @@
 [submodule "libretro-uw8"]
 	path = libretro-uw8
 	url = https://github.com/madcock/libretro-uw8
+[submodule "libretro-galaxy"]
+	path = libretro-galaxy
+	url = https://github.com/madcock/libretro-galaxy
