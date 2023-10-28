@@ -167,3 +167,6 @@
 [submodule "libretro-beetle-wswan"]
 	path = libretro-beetle-wswan
 	url = https://github.com/madcock/libretro-beetle-wswan
+[submodule "bk-emulator"]
+	path = bk-emulator
+	url = https://github.com/madcock/bk-emulator
