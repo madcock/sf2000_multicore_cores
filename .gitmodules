@@ -140,3 +140,6 @@
 [submodule "libretro-opera"]
 	path = libretro-opera
 	url = https://github.com/madcock/libretro-opera
+[submodule "libretro-cap32"]
+	path = libretro-cap32
+	url = https://github.com/madcock/libretro-cap32
