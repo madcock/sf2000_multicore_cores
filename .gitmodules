@@ -155,3 +155,6 @@
 [submodule "fbalpha2012_cps3"]
 	path = fbalpha2012_cps3
 	url = https://github.com/madcock/fbalpha2012_cps3
+[submodule "fbalpha2012_neogeo"]
+	path = fbalpha2012_neogeo
+	url = https://github.com/madcock/fbalpha2012_neogeo
