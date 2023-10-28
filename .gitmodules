@@ -128,3 +128,6 @@
 [submodule "retro-tennis"]
 	path = retro-tennis
 	url = https://github.com/madcock/retro-tennis
+[submodule "FreeIntv"]
+	path = FreeIntv
+	url = https://github.com/madcock/FreeIntv
