@@ -143,3 +143,6 @@
 [submodule "libretro-cap32"]
 	path = libretro-cap32
 	url = https://github.com/madcock/libretro-cap32
+[submodule "fbalpha2012"]
+	path = fbalpha2012
+	url = https://github.com/madcock/fbalpha2012
