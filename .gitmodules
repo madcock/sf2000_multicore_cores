@@ -164,3 +164,6 @@
 [submodule "mame2003_midway"]
 	path = mame2003_midway
 	url = https://github.com/madcock/mame2003_midway
+[submodule "libretro-beetle-wswan"]
+	path = libretro-beetle-wswan
+	url = https://github.com/madcock/libretro-beetle-wswan
