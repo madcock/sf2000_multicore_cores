@@ -191,3 +191,6 @@
 [submodule "snes9x-next"]
 	path = snes9x-next
 	url = https://github.com/madcock/snes9x-next
+[submodule "smsplus-gx"]
+	path = smsplus-gx
+	url = https://github.com/madcock/smsplus-gx
