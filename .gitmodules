@@ -131,3 +131,6 @@
 [submodule "FreeIntv"]
 	path = FreeIntv
 	url = https://github.com/madcock/FreeIntv
+[submodule "libretro-imageviewer-legacy"]
+	path = libretro-imageviewer-legacy
+	url = https://github.com/madcock/libretro-imageviewer-legacy
