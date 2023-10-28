@@ -170,3 +170,6 @@
 [submodule "bk-emulator"]
 	path = bk-emulator
 	url = https://github.com/madcock/bk-emulator
+[submodule "libretro-superbroswar"]
+	path = libretro-superbroswar
+	url = https://github.com/madcock/libretro-superbroswar
