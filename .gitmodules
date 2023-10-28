@@ -194,3 +194,6 @@
 [submodule "smsplus-gx"]
 	path = smsplus-gx
 	url = https://github.com/madcock/smsplus-gx
+[submodule "libretro-px68k"]
+	path = libretro-px68k
+	url = https://github.com/madcock/libretro-px68k
