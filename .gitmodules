@@ -119,3 +119,6 @@
 [submodule "libretro-virtualjaguar"]
 	path = libretro-virtualjaguar
 	url = https://github.com/madcock/libretro-virtualjaguar
+[submodule "libretro-uw8"]
+	path = libretro-uw8
+	url = https://github.com/madcock/libretro-uw8
