@@ -152,3 +152,6 @@
 [submodule "fbalpha2012_cps2"]
 	path = fbalpha2012_cps2
 	url = https://github.com/madcock/fbalpha2012_cps2
+[submodule "fbalpha2012_cps3"]
+	path = fbalpha2012_cps3
+	url = https://github.com/madcock/fbalpha2012_cps3
