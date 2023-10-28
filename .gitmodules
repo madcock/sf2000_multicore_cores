@@ -176,3 +176,6 @@
 [submodule "cannonball"]
 	path = cannonball
 	url = https://github.com/madcock/cannonball
+[submodule "mojozork"]
+	path = mojozork
+	url = https://github.com/madcock/mojozork
