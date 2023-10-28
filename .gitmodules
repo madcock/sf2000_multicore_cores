@@ -161,3 +161,6 @@
 [submodule "FBNeo"]
 	path = FBNeo
 	url = https://github.com/madcock/FBNeo
+[submodule "mame2003_midway"]
+	path = mame2003_midway
+	url = https://github.com/madcock/mame2003_midway
