@@ -179,3 +179,6 @@
 [submodule "mojozork"]
 	path = mojozork
 	url = https://github.com/madcock/mojozork
+[submodule "libretro-gw"]
+	path = libretro-gw
+	url = https://github.com/madcock/libretro-gw
