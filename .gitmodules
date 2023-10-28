@@ -173,3 +173,6 @@
 [submodule "libretro-superbroswar"]
 	path = libretro-superbroswar
 	url = https://github.com/madcock/libretro-superbroswar
+[submodule "cannonball"]
+	path = cannonball
+	url = https://github.com/madcock/cannonball
