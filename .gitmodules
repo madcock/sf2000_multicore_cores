@@ -188,3 +188,6 @@
 [submodule "chimerasnes"]
 	path = chimerasnes
 	url = https://github.com/madcock/chimerasnes
+[submodule "snes9x-next"]
+	path = snes9x-next
+	url = https://github.com/madcock/snes9x-next
