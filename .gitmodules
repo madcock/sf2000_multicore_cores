@@ -182,3 +182,6 @@
 [submodule "libretro-gw"]
 	path = libretro-gw
 	url = https://github.com/madcock/libretro-gw
+[submodule "mgba"]
+	path = mgba
+	url = https://github.com/madcock/mgba
