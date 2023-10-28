@@ -185,3 +185,6 @@
 [submodule "mgba"]
 	path = mgba
 	url = https://github.com/madcock/mgba
+[submodule "chimerasnes"]
+	path = chimerasnes
+	url = https://github.com/madcock/chimerasnes
