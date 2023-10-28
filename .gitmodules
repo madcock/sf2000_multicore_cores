@@ -158,3 +158,6 @@
 [submodule "fbalpha2012_neogeo"]
 	path = fbalpha2012_neogeo
 	url = https://github.com/madcock/fbalpha2012_neogeo
+[submodule "FBNeo"]
+	path = FBNeo
+	url = https://github.com/madcock/FBNeo
