@@ -149,3 +149,6 @@
 [submodule "fbalpha2012_cps1"]
 	path = fbalpha2012_cps1
 	url = https://github.com/madcock/fbalpha2012_cps1
+[submodule "fbalpha2012_cps2"]
+	path = fbalpha2012_cps2
+	url = https://github.com/madcock/fbalpha2012_cps2
