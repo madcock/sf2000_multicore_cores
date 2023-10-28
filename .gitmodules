@@ -125,3 +125,6 @@
 [submodule "libretro-galaxy"]
 	path = libretro-galaxy
 	url = https://github.com/madcock/libretro-galaxy
+[submodule "retro-tennis"]
+	path = retro-tennis
+	url = https://github.com/madcock/retro-tennis
