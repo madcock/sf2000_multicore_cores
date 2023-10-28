@@ -197,3 +197,6 @@
 [submodule "libretro-px68k"]
 	path = libretro-px68k
 	url = https://github.com/madcock/libretro-px68k
+[submodule "libretro-81"]
+	path = libretro-81
+	url = https://github.com/madcock/libretro-81
