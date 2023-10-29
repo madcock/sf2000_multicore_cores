@@ -227,3 +227,6 @@
 [submodule "libretro-frodo"]
 	path = libretro-frodo
 	url = https://github.com/madcock/libretro-frodo
+[submodule "libretro-vice3.0"]
+	path = libretro-vice3.0
+	url = https://github.com/madcock/libretro-vice3.0
