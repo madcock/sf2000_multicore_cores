@@ -212,3 +212,6 @@
 [submodule "mame2003Wii"]
 	path = mame2003Wii
 	url = https://github.com/madcock/mame2003Wii
+[submodule "libretro-atari800"]
+	path = libretro-atari800
+	url = https://github.com/madcock/libretro-atari800
