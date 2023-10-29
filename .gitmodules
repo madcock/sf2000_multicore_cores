@@ -215,3 +215,6 @@
 [submodule "libretro-atari800"]
 	path = libretro-atari800
 	url = https://github.com/madcock/libretro-atari800
+[submodule "libretro-atari800lib"]
+	path = libretro-atari800lib
+	url = https://github.com/madcock/libretro-atari800lib
