@@ -203,3 +203,6 @@
 [submodule "libretro-vemulator"]
 	path = libretro-vemulator
 	url = https://github.com/madcock/libretro-vemulator
+[submodule "libretro-samples"]
+	path = libretro-samples
+	url = https://github.com/madcock/libretro-samples
