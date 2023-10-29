@@ -218,3 +218,6 @@
 [submodule "libretro-atari800lib"]
 	path = libretro-atari800lib
 	url = https://github.com/madcock/libretro-atari800lib
+[submodule "hatari"]
+	path = hatari
+	url = https://github.com/madcock/hatari
