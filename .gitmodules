@@ -221,3 +221,6 @@
 [submodule "hatari"]
 	path = hatari
 	url = https://github.com/madcock/hatari
+[submodule "libretro-uae"]
+	path = libretro-uae
+	url = https://github.com/madcock/libretro-uae
