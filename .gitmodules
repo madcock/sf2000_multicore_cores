@@ -233,3 +233,6 @@
 [submodule "dosbox-pure"]
 	path = dosbox-pure
 	url = https://github.com/madcock/dosbox-pure
+[submodule "dosbox-svn"]
+	path = dosbox-svn
+	url = https://github.com/madcock/dosbox-svn
