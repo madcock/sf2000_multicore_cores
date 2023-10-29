@@ -209,3 +209,6 @@
 [submodule "libretro-simcoupe"]
 	path = libretro-simcoupe
 	url = https://github.com/madcock/libretro-simcoupe
+[submodule "mame2003Wii"]
+	path = mame2003Wii
+	url = https://github.com/madcock/mame2003Wii
