@@ -224,3 +224,6 @@
 [submodule "libretro-uae"]
 	path = libretro-uae
 	url = https://github.com/madcock/libretro-uae
+[submodule "libretro-frodo"]
+	path = libretro-frodo
+	url = https://github.com/madcock/libretro-frodo
