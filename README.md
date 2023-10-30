@@ -22,3 +22,10 @@ I plan to make a repo here on github that I can keep in sync with this project, 
 
 ## Discussion
 All the latest information can be found in the [dev channel on Discord](https://discord.com/channels/741895796315914271/1099465777825972347) which is part of [Retro Handhelds](https://discord.gg/retrohandhelds).
+
+## Notes
+Most of the cores are forked from the official libretro repos in github. These are the exceptions:
+- Potator https://git.libretro.com/libretro/potator
+- VeMUlator https://git.libretro.com/libretro/vemulator-libretro
+
+Since they are forked from gitlab, updates are handled differently.
