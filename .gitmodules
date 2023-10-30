@@ -233,3 +233,6 @@
 [submodule "dosbox-svn"]
 	path = dosbox-svn
 	url = https://github.com/madcock/dosbox-svn
+[submodule "picodrive"]
+	path = picodrive
+	url = https://github.com/madcock/picodrive
