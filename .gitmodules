@@ -233,3 +233,6 @@
 [submodule "libretro-superbroswar"]
 	path = libretro-superbroswar
 	url = https://github.com/madcock/libretro-superbroswar
+[submodule "libretro-opera"]
+	path = libretro-opera
+	url = https://github.com/madcock/libretro-opera
