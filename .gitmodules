@@ -233,3 +233,6 @@
 [submodule "picodrive"]
 	path = picodrive
 	url = https://github.com/madcock/picodrive
+[submodule "libretro-superbroswar"]
+	path = libretro-superbroswar
+	url = https://github.com/madcock/libretro-superbroswar
