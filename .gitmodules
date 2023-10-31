@@ -236,3 +236,6 @@
 [submodule "libretro-opera"]
 	path = libretro-opera
 	url = https://github.com/madcock/libretro-opera
+[submodule "ep128emu-core"]
+	path = ep128emu-core
+	url = https://github.com/madcock/ep128emu-core
