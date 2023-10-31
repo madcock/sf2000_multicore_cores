@@ -239,3 +239,6 @@
 [submodule "ep128emu-core"]
 	path = ep128emu-core
 	url = https://github.com/madcock/ep128emu-core
+[submodule "fake-08"]
+	path = fake-08
+	url = https://github.com/madcock/fake-08
