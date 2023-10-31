@@ -242,3 +242,6 @@
 [submodule "fake-08"]
 	path = fake-08
 	url = https://github.com/madcock/fake-08
+[submodule "meg4"]
+	path = meg4
+	url = https://github.com/madcock/meg4
