@@ -245,3 +245,6 @@
 [submodule "meg4"]
 	path = meg4
 	url = https://github.com/madcock/meg4
+[submodule "REminiscence"]
+	path = REminiscence
+	url = https://github.com/madcock/REminiscence
