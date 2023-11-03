@@ -9,7 +9,14 @@ Some cores build and work well, others build and have issues (no sound, slowness
 
 ## How to build
 The top level project that this repo should go under is here: https://gitlab.com/kobily/sf2000_multicore
-- choose a directory ro contain all this
+- choose a directory to contain all this
+- get and install the compiler tools:
+```
+wget https://cloud.maschath.de/s/dDrZN4DSgJ33E3w/download/Codescape.GNU.Tools.Package.2019.09-03-2.for.MIPS32.MTI.Bare.Metal.Ubuntu-18.04.5.x86_64.tar.gz
+wget https://cloud.maschath.de/s/aLtJ86KbXmTm6iE/download/Codescape.GNU.Tools.Package.2019.09-03.for.MIPS32.MTI.Bare.Metal.Ubuntu-18.04.5.x86_64.tar.gz
+tar -xzf Codescape.GNU.Tools.Package.2019.09-03.for.MIPS32.MTI.Bare.Metal.Ubuntu-18.04.5.x86_64.tar.gz -C /opt
+tar -xzf Codescape.GNU.Tools.Package.2019.09-03-2.for.MIPS32.MTI.Bare.Metal.Ubuntu-18.04.5.x86_64.tar.gz -C /opt
+```
 - `git clone --recursive https://gitlab.com/kobily/sf2000_multicore`
 - `mkdir libs; cd libs`
 - `git clone --recursive https://gitlab.com/kobily/libretro-common`
