@@ -34,6 +34,7 @@ All the latest information can be found in the [dev channel on Discord](https://
 
 ## Notes
 Most of the cores are forked from the official libretro repos in github. These are the exceptions:
+- meg4 https://gitlab.com/bztsrc/meg4
 - Potator https://git.libretro.com/libretro/potator
 - VeMUlator https://git.libretro.com/libretro/vemulator-libretro
 
