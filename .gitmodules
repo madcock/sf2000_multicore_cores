@@ -248,3 +248,6 @@
 [submodule "REminiscence"]
 	path = REminiscence
 	url = https://github.com/madcock/REminiscence
+[submodule "libretro-mrboom"]
+	path = libretro-mrboom
+	url = https://github.com/madcock/libretro-mrboom
