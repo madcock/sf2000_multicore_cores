@@ -254,3 +254,6 @@
 [submodule "libretro-beetle-psx"]
 	path = libretro-beetle-psx
 	url = https://github.com/madcock/libretro-beetle-psx
+[submodule "arduous"]
+	path = arduous
+	url = https://github.com/madcock/arduous
