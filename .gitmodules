@@ -257,3 +257,6 @@
 [submodule "arduous"]
 	path = arduous
 	url = https://github.com/madcock/arduous
+[submodule "libretro-mame2000"]
+	path = libretro-mame2000
+	url = https://github.com/madcock/libretro-mame2000
