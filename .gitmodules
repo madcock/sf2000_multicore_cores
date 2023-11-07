@@ -74,9 +74,6 @@
 [submodule "libretro-mame2003-plus"]
 	path = libretro-mame2003-plus
 	url = https://github.com/madcock/libretro-mame2003-plus
-[submodule "arduous"]
-	path = arduous
-	url = https://github.com/madcock/arduous
 [submodule "a5200"]
 	path = a5200
 	url = https://github.com/madcock/a5200
