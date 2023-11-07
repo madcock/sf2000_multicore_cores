@@ -251,3 +251,6 @@
 [submodule "libretro-mrboom"]
 	path = libretro-mrboom
 	url = https://github.com/madcock/libretro-mrboom
+[submodule "ecwolf"]
+	path = ecwolf
+	url = https://github.com/madcock/ecwolf
