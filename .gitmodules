@@ -254,3 +254,6 @@
 [submodule "ecwolf"]
 	path = ecwolf
 	url = https://github.com/madcock/ecwolf
+[submodule "libretro-beetle-psx"]
+	path = libretro-beetle-psx
+	url = https://github.com/madcock/libretro-beetle-psx
