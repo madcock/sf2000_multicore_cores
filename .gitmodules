@@ -260,3 +260,6 @@
 [submodule "libretro-mame2000"]
 	path = libretro-mame2000
 	url = https://github.com/madcock/libretro-mame2000
+[submodule "libretro-wolfenstein3d"]
+	path = libretro-wolfenstein3d
+	url = https://github.com/madcock/libretro-wolfenstein3d
