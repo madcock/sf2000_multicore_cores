@@ -5,258 +5,344 @@
 [submodule "libretro-stella2014"]
 	path = libretro-stella2014
 	url = https://github.com/madcock/libretro-stella2014
+	branch = master
 [submodule "libretro-handy"]
 	path = libretro-handy
 	url = https://github.com/madcock/libretro-handy
+	branch = master
 [submodule "jaxe"]
 	path = jaxe
 	url = https://github.com/madcock/jaxe
+	branch = main
 [submodule "Gearcoleco"]
 	path = Gearcoleco
 	url = https://github.com/madcock/Gearcoleco
+	branch = main
 [submodule "FreeChaF"]
 	path = FreeChaF
 	url = https://github.com/madcock/FreeChaF
+	branch = master
 [submodule "retro8"]
 	path = retro8
 	url = https://github.com/madcock/retro8
+	branch = master
 [submodule "vaporspec"]
 	path = vaporspec
 	url = https://github.com/madcock/vaporspec
+	branch = master
 [submodule "gong"]
 	path = gong
 	url = https://github.com/madcock/gong
+	branch = master
 [submodule "libretro-pocketcdg"]
 	path = libretro-pocketcdg
 	url = https://github.com/madcock/libretro-pocketcdg
+	branch = master
 [submodule "libretro-gme"]
 	path = libretro-gme
 	url = https://github.com/madcock/libretro-gme
+	branch = master
 [submodule "libretro-beetle-pce-fast"]
 	path = libretro-beetle-pce-fast
 	url = https://github.com/madcock/libretro-beetle-pce-fast
+	branch = master
 [submodule "gpsp"]
 	path = gpsp
 	url = https://github.com/madcock/gpsp
+	branch = master
 [submodule "RACE"]
 	path = RACE
 	url = https://github.com/madcock/RACE
+	branch = master
 [submodule "libretro-tgbdual"]
 	path = libretro-tgbdual
 	url = https://github.com/madcock/libretro-tgbdual
+	branch = master
 [submodule "libretro-fceumm"]
 	path = libretro-fceumm
 	url = https://github.com/madcock/libretro-fceumm
+	branch = master
 [submodule "snes9x2002"]
 	path = snes9x2002
 	url = https://github.com/madcock/snes9x2002
+	branch = master
 [submodule "snes9x2005"]
 	path = snes9x2005
 	url = https://github.com/madcock/snes9x2005
+	branch = master
 [submodule "Gearsystem"]
 	path = Gearsystem
 	url = https://github.com/madcock/Gearsystem
+	branch = master
 [submodule "libretro-fuse"]
 	path = libretro-fuse
 	url = https://github.com/madcock/libretro-fuse
+	branch = master
 [submodule "theodore"]
 	path = theodore
 	url = https://github.com/madcock/theodore
+	branch = master
 [submodule "Genesis-Plus-GX"]
 	path = Genesis-Plus-GX
 	url = https://github.com/madcock/Genesis-Plus-GX
+	branch = master
 [submodule "potator"]
 	path = potator
 	url = https://github.com/madcock/potator
+	branch = master
 [submodule "libretro-crocods"]
 	path = libretro-crocods
 	url = https://github.com/madcock/libretro-crocods
+	branch = master
 [submodule "libretro-mame2003-plus"]
 	path = libretro-mame2003-plus
 	url = https://github.com/madcock/libretro-mame2003-plus
+	branch = master
 [submodule "a5200"]
 	path = a5200
 	url = https://github.com/madcock/a5200
+	branch = master
 [submodule "libretro-prosystem"]
 	path = libretro-prosystem
 	url = https://github.com/madcock/libretro-prosystem
+	branch = master
 [submodule "libretro-beetle-lynx"]
 	path = libretro-beetle-lynx
 	url = https://github.com/madcock/libretro-beetle-lynx
+	branch = master
 [submodule "lowres-nx"]
 	path = lowres-nx
 	url = https://github.com/madcock/lowres-nx
+	branch = master
 [submodule "libretro-jumpnbump"]
 	path = libretro-jumpnbump
 	url = https://github.com/madcock/libretro-jumpnbump
+	branch = master
 [submodule "libretro-nxengine"]
 	path = libretro-nxengine
 	url = https://github.com/madcock/libretro-nxengine
+	branch = master
 [submodule "libretro-prboom"]
 	path = libretro-prboom
 	url = https://github.com/madcock/libretro-prboom
+	branch = master
 [submodule "libretro-o2em"]
 	path = libretro-o2em
 	url = https://github.com/madcock/libretro-o2em
+	branch = master
 [submodule "libretro-beetle-supergrafx"]
 	path = libretro-beetle-supergrafx
 	url = https://github.com/madcock/libretro-beetle-supergrafx
+	branch = master
 [submodule "libretro-beetle-pcfx"]
 	path = libretro-beetle-pcfx
 	url = https://github.com/madcock/libretro-beetle-pcfx
+	branch = master
 [submodule "libretro-beetle-vb"]
 	path = libretro-beetle-vb
 	url = https://github.com/madcock/libretro-beetle-vb
+	branch = master
 [submodule "libretro-xmil"]
 	path = libretro-xmil
 	url = https://github.com/madcock/libretro-xmil
+	branch = master
 [submodule "libretro-virtualjaguar"]
 	path = libretro-virtualjaguar
 	url = https://github.com/madcock/libretro-virtualjaguar
+	branch = master
 [submodule "libretro-uw8"]
 	path = libretro-uw8
 	url = https://github.com/madcock/libretro-uw8
+	branch = main
 [submodule "libretro-galaxy"]
 	path = libretro-galaxy
 	url = https://github.com/madcock/libretro-galaxy
+	branch = main
 [submodule "retro-tennis"]
 	path = retro-tennis
 	url = https://github.com/madcock/retro-tennis
+	branch = main
 [submodule "FreeIntv"]
 	path = FreeIntv
 	url = https://github.com/madcock/FreeIntv
+	branch = master
 [submodule "libretro-imageviewer-legacy"]
 	path = libretro-imageviewer-legacy
 	url = https://github.com/madcock/libretro-imageviewer-legacy
+	branch = master
 [submodule "libretro-vecx"]
 	path = libretro-vecx
 	url = https://github.com/madcock/libretro-vecx
+	branch = master
 [submodule "libretro-cap32"]
 	path = libretro-cap32
 	url = https://github.com/madcock/libretro-cap32
+	branch = master
 [submodule "fbalpha2012"]
 	path = fbalpha2012
 	url = https://github.com/madcock/fbalpha2012
+	branch = master
 [submodule "fbalpha2012_cps1"]
 	path = fbalpha2012_cps1
 	url = https://github.com/madcock/fbalpha2012_cps1
+	branch = master
 [submodule "fbalpha2012_cps2"]
 	path = fbalpha2012_cps2
 	url = https://github.com/madcock/fbalpha2012_cps2
+	branch = master
 [submodule "fbalpha2012_cps3"]
 	path = fbalpha2012_cps3
 	url = https://github.com/madcock/fbalpha2012_cps3
+	branch = master
 [submodule "fbalpha2012_neogeo"]
 	path = fbalpha2012_neogeo
 	url = https://github.com/madcock/fbalpha2012_neogeo
+	branch = master
 [submodule "FBNeo"]
 	path = FBNeo
 	url = https://github.com/madcock/FBNeo
+	branch = master
 [submodule "mame2003_midway"]
 	path = mame2003_midway
 	url = https://github.com/madcock/mame2003_midway
+	branch = master
 [submodule "libretro-beetle-wswan"]
 	path = libretro-beetle-wswan
 	url = https://github.com/madcock/libretro-beetle-wswan
+	branch = master
 [submodule "bk-emulator"]
 	path = bk-emulator
 	url = https://github.com/madcock/bk-emulator
+	branch = master
 [submodule "cannonball"]
 	path = cannonball
 	url = https://github.com/madcock/cannonball
+	branch = master
 [submodule "mojozork"]
 	path = mojozork
 	url = https://github.com/madcock/mojozork
+	branch = main
 [submodule "libretro-gw"]
 	path = libretro-gw
 	url = https://github.com/madcock/libretro-gw
+	branch = master
 [submodule "mgba"]
 	path = mgba
 	url = https://github.com/madcock/mgba
+	branch = master
 [submodule "chimerasnes"]
 	path = chimerasnes
 	url = https://github.com/madcock/chimerasnes
+	branch = master
 [submodule "snes9x-next"]
 	path = snes9x-next
 	url = https://github.com/madcock/snes9x-next
+	branch = master
 [submodule "smsplus-gx"]
 	path = smsplus-gx
 	url = https://github.com/madcock/smsplus-gx
+	branch = master
 [submodule "libretro-px68k"]
 	path = libretro-px68k
 	url = https://github.com/madcock/libretro-px68k
+	branch = master
 [submodule "libretro-81"]
 	path = libretro-81
 	url = https://github.com/madcock/libretro-81
+	branch = master
 [submodule "libretro-vemulator"]
 	path = libretro-vemulator
 	url = https://github.com/madcock/libretro-vemulator
+	branch = master
 [submodule "libretro-samples"]
 	path = libretro-samples
 	url = https://github.com/madcock/libretro-samples
+	branch = master
 [submodule "libretro-simcoupe"]
 	path = libretro-simcoupe
 	url = https://github.com/madcock/libretro-simcoupe
+	branch = master
 [submodule "mame2003Wii"]
 	path = mame2003Wii
 	url = https://github.com/madcock/mame2003Wii
+	branch = master
 [submodule "libretro-atari800"]
 	path = libretro-atari800
 	url = https://github.com/madcock/libretro-atari800
+	branch = master
 [submodule "libretro-atari800lib"]
 	path = libretro-atari800lib
 	url = https://github.com/madcock/libretro-atari800lib
+	branch = main
 [submodule "hatari"]
 	path = hatari
 	url = https://github.com/madcock/hatari
+	branch = master
 [submodule "libretro-uae"]
 	path = libretro-uae
 	url = https://github.com/madcock/libretro-uae
+	branch = master
 [submodule "libretro-frodo"]
 	path = libretro-frodo
 	url = https://github.com/madcock/libretro-frodo
+	branch = master
 [submodule "libretro-vice"]
 	path = libretro-vice
 	url = https://github.com/madcock/libretro-vice
+	branch = master
 [submodule "dosbox-pure"]
 	path = dosbox-pure
 	url = https://github.com/madcock/dosbox-pure
+	branch = main
 [submodule "dosbox-svn"]
 	path = dosbox-svn
 	url = https://github.com/madcock/dosbox-svn
+	branch = libretro
 [submodule "picodrive"]
 	path = picodrive
 	url = https://github.com/madcock/picodrive
+	branch = master
 [submodule "libretro-superbroswar"]
 	path = libretro-superbroswar
 	url = https://github.com/madcock/libretro-superbroswar
+	branch = master
 [submodule "libretro-opera"]
 	path = libretro-opera
 	url = https://github.com/madcock/libretro-opera
+	branch = master
 [submodule "ep128emu-core"]
 	path = ep128emu-core
 	url = https://github.com/madcock/ep128emu-core
+	branch = core
 [submodule "fake-08"]
 	path = fake-08
 	url = https://github.com/madcock/fake-08
+	branch = master
 [submodule "meg4"]
 	path = meg4
 	url = https://github.com/madcock/meg4
+	branch = main
 [submodule "REminiscence"]
 	path = REminiscence
 	url = https://github.com/madcock/REminiscence
+	branch = master
 [submodule "libretro-mrboom"]
 	path = libretro-mrboom
 	url = https://github.com/madcock/libretro-mrboom
+	branch = master
 [submodule "ecwolf"]
 	path = ecwolf
 	url = https://github.com/madcock/ecwolf
+	branch = master
 [submodule "libretro-beetle-psx"]
 	path = libretro-beetle-psx
 	url = https://github.com/madcock/libretro-beetle-psx
+	branch = master
 [submodule "arduous"]
 	path = arduous
 	url = https://github.com/madcock/arduous
+	branch = main
 [submodule "libretro-mame2000"]
 	path = libretro-mame2000
 	url = https://github.com/madcock/libretro-mame2000
+	branch = master
