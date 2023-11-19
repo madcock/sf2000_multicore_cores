@@ -346,3 +346,11 @@
 	path = libretro-mame2000
 	url = https://github.com/madcock/libretro-mame2000
 	branch = master
+[submodule "PokeMini"]
+	path = PokeMini
+	url = https://github.com/madcock/PokeMini
+	branch = master
+[submodule "libretro-uzem"]
+	path = libretro-uzem
+	url = https://github.com/madcock/libretro-uzem
+	branch = master
