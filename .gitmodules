@@ -314,10 +314,6 @@
 	path = ep128emu-core
 	url = https://github.com/madcock/ep128emu-core
 	branch = core
-[submodule "fake-08"]
-	path = fake-08
-	url = https://github.com/madcock/fake-08
-	branch = master
 [submodule "meg4"]
 	path = meg4
 	url = https://github.com/madcock/meg4
@@ -354,3 +350,6 @@
 	path = libretro-uzem
 	url = https://github.com/madcock/libretro-uzem
 	branch = master
+[submodule "fake-08"]
+	path = fake-08
+	url = https://github.com/madcock/fake-08
