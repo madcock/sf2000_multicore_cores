@@ -368,3 +368,6 @@
 [submodule "libretro-gambatte"]
 	path = libretro-gambatte
 	url = https://github.com/madcock/libretro-gambatte
+[submodule "libretro-minivmac"]
+	path = libretro-minivmac
+	url = https://github.com/madcock/libretro-minivmac
