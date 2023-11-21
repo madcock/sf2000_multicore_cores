@@ -359,3 +359,12 @@
 [submodule "nestopia"]
 	path = nestopia
 	url = https://github.com/madcock/nestopia
+[submodule "libretro-vbam"]
+	path = libretro-vbam
+	url = https://github.com/madcock/libretro-vbam
+[submodule "SameBoy"]
+	path = SameBoy
+	url = https://github.com/madcock/SameBoy
+[submodule "libretro-gambatte"]
+	path = libretro-gambatte
+	url = https://github.com/madcock/libretro-gambatte
