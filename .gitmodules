@@ -371,3 +371,6 @@
 [submodule "libretro-minivmac"]
 	path = libretro-minivmac
 	url = https://github.com/madcock/libretro-minivmac
+[submodule "libretro-onscripter"]
+	path = libretro-onscripter
+	url = https://github.com/madcock/libretro-onscripter
