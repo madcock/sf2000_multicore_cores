@@ -389,3 +389,6 @@
 [submodule "libretro-lutro"]
 	path = libretro-lutro
 	url = https://github.com/madcock/libretro-lutro
+[submodule "numero"]
+	path = numero
+	url = https://github.com/madcock/numero
