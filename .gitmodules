@@ -392,3 +392,6 @@
 [submodule "numero"]
 	path = numero
 	url = https://github.com/madcock/numero
+[submodule "libretro-quasi88"]
+	path = libretro-quasi88
+	url = https://github.com/madcock/libretro-quasi88
