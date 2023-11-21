@@ -353,3 +353,9 @@
 [submodule "fake-08"]
 	path = fake-08
 	url = https://github.com/madcock/fake-08
+[submodule "QuickNES_Core"]
+	path = QuickNES_Core
+	url = https://github.com/madcock/QuickNES_Core
+[submodule "nestopia"]
+	path = nestopia
+	url = https://github.com/madcock/nestopia
