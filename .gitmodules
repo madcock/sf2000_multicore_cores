@@ -395,3 +395,6 @@
 [submodule "libretro-quasi88"]
 	path = libretro-quasi88
 	url = https://github.com/madcock/libretro-quasi88
+[submodule "tyrquake"]
+	path = tyrquake
+	url = https://github.com/madcock/tyrquake
