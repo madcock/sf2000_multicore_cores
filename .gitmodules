@@ -374,3 +374,18 @@
 [submodule "libretro-onscripter"]
 	path = libretro-onscripter
 	url = https://github.com/madcock/libretro-onscripter
+[submodule "libretro-chailove"]
+	path = libretro-chailove
+	url = https://github.com/madcock/libretro-chailove
+[submodule "libretro-superflappybirds"]
+	path = libretro-superflappybirds
+	url = https://github.com/madcock/libretro-superflappybirds
+[submodule "libretro-nogg"]
+	path = libretro-nogg
+	url = https://github.com/madcock/libretro-nogg
+[submodule "Dinothawr"]
+	path = Dinothawr
+	url = https://github.com/madcock/Dinothawr
+[submodule "libretro-lutro"]
+	path = libretro-lutro
+	url = https://github.com/madcock/libretro-lutro
