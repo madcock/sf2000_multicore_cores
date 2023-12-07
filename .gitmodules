@@ -401,3 +401,6 @@
 [submodule "libretro-fmsx"]
 	path = libretro-fmsx
 	url = https://github.com/madcock/libretro-fmsx
+[submodule "Gearboy"]
+	path = Gearboy
+	url = https://github.com/madcock/Gearboy
