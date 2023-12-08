@@ -404,3 +404,6 @@
 [submodule "Gearboy"]
 	path = Gearboy
 	url = https://github.com/madcock/Gearboy
+[submodule "scummvm"]
+	path = scummvm
+	url = https://github.com/madcock/scummvm
