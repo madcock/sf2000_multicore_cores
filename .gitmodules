@@ -422,3 +422,6 @@
 [submodule "FFmpeg"]
 	path = FFmpeg
 	url = https://github.com/madcock/FFmpeg
+[submodule "libretro-x48"]
+	path = libretro-x48
+	url = https://github.com/madcock/libretro-x48
