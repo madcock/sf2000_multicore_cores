@@ -419,3 +419,6 @@
 [submodule "DirkSimple"]
 	path = DirkSimple
 	url = https://github.com/madcock/DirkSimple
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/madcock/FFmpeg
