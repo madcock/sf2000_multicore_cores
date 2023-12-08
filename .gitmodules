@@ -413,3 +413,6 @@
 [submodule "libretro-blueMSX"]
 	path = libretro-blueMSX
 	url = https://github.com/madcock/libretro-blueMSX
+[submodule "libretro-xrick"]
+	path = libretro-xrick
+	url = https://github.com/madcock/libretro-xrick
