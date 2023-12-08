@@ -410,3 +410,6 @@
 [submodule "daphne"]
 	path = daphne
 	url = https://github.com/madcock/daphne
+[submodule "libretro-blueMSX"]
+	path = libretro-blueMSX
+	url = https://github.com/madcock/libretro-blueMSX
