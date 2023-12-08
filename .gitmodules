@@ -416,3 +416,6 @@
 [submodule "libretro-xrick"]
 	path = libretro-xrick
 	url = https://github.com/madcock/libretro-xrick
+[submodule "DirkSimple"]
+	path = DirkSimple
+	url = https://github.com/madcock/DirkSimple
