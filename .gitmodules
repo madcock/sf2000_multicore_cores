@@ -407,3 +407,6 @@
 [submodule "scummvm"]
 	path = scummvm
 	url = https://github.com/madcock/scummvm
+[submodule "daphne"]
+	path = daphne
+	url = https://github.com/madcock/daphne
