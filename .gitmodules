@@ -428,3 +428,6 @@
 [submodule "vba-next"]
 	path = vba-next
 	url = https://github.com/madcock/vba-next
+[submodule "vitaquake2"]
+	path = vitaquake2
+	url = https://github.com/madcock/vitaquake2
