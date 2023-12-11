@@ -425,3 +425,6 @@
 [submodule "libretro-x48"]
 	path = libretro-x48
 	url = https://github.com/madcock/libretro-x48
+[submodule "vba-next"]
+	path = vba-next
+	url = https://github.com/madcock/vba-next
