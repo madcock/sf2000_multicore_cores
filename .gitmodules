@@ -270,10 +270,6 @@
 	path = libretro-atari800lib
 	url = https://github.com/madcock/libretro-atari800lib
 	branch = main
-[submodule "hatari"]
-	path = hatari
-	url = https://github.com/madcock/hatari
-	branch = master
 [submodule "libretro-uae"]
 	path = libretro-uae
 	url = https://github.com/madcock/libretro-uae
@@ -430,3 +426,6 @@
 [submodule "a5200"]
 	path = a5200
 	url = https://github.com/madcock/a5200
+[submodule "hatari"]
+	path = hatari
+	url = https://github.com/madcock/hatari
