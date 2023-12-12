@@ -98,10 +98,6 @@
 	path = libretro-mame2003-plus
 	url = https://github.com/madcock/libretro-mame2003-plus
 	branch = master
-[submodule "a5200"]
-	path = a5200
-	url = https://github.com/madcock/a5200
-	branch = master
 [submodule "libretro-prosystem"]
 	path = libretro-prosystem
 	url = https://github.com/madcock/libretro-prosystem
@@ -431,3 +427,6 @@
 [submodule "vitaquake2"]
 	path = vitaquake2
 	url = https://github.com/madcock/vitaquake2
+[submodule "a5200"]
+	path = a5200
+	url = https://github.com/madcock/a5200
