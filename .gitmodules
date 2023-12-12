@@ -429,3 +429,6 @@
 [submodule "hatari"]
 	path = hatari
 	url = https://github.com/madcock/hatari
+[submodule "oberon-risc-emu"]
+	path = oberon-risc-emu
+	url = https://github.com/madcock/oberon-risc-emu
