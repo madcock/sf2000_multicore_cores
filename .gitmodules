@@ -430,3 +430,39 @@
 [submodule "libretro-cap32"]
 	path = libretro-cap32
 	url = https://github.com/madcock/libretro-cap32
+[submodule "Mu"]
+	path = Mu
+	url = https://github.com/madcock/Mu
+[submodule "desmume2015"]
+	path = desmume2015
+	url = https://github.com/madcock/desmume2015
+[submodule "dosbox-core"]
+	path = dosbox-core
+	url = https://github.com/madcock/dosbox-core
+[submodule "libretro-gfxprim"]
+	path = libretro-gfxprim
+	url = https://github.com/madcock/libretro-gfxprim
+[submodule "libretro-pcem"]
+	path = libretro-pcem
+	url = https://github.com/madcock/libretro-pcem
+[submodule "pntr"]
+	path = pntr
+	url = https://github.com/madcock/pntr
+[submodule "pzretro"]
+	path = pzretro
+	url = https://github.com/madcock/pzretro
+[submodule "libretro_neocd"]
+	path = libretro_neocd
+	url = https://github.com/madcock/libretro_neocd
+[submodule "virtualxt"]
+	path = virtualxt
+	url = https://github.com/madcock/virtualxt
+[submodule "libretro-zc210"]
+	path = libretro-zc210
+	url = https://github.com/madcock/libretro-zc210
+[submodule "libretro-zc250x"]
+	path = libretro-zc250x
+	url = https://github.com/madcock/libretro-zc250x
+[submodule "hatariB"]
+	path = hatariB
+	url = https://github.com/madcock/hatariB
