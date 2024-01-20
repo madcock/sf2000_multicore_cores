@@ -46,10 +46,6 @@
 	path = libretro-beetle-pce-fast
 	url = https://github.com/madcock/libretro-beetle-pce-fast
 	branch = master
-[submodule "gpsp"]
-	path = gpsp
-	url = https://github.com/madcock/gpsp
-	branch = master
 [submodule "RACE"]
 	path = RACE
 	url = https://github.com/madcock/RACE
@@ -274,10 +270,6 @@
 	path = libretro-vice
 	url = https://github.com/madcock/libretro-vice
 	branch = master
-[submodule "dosbox-pure"]
-	path = dosbox-pure
-	url = https://github.com/madcock/dosbox-pure
-	branch = main
 [submodule "dosbox-svn"]
 	path = dosbox-svn
 	url = https://github.com/madcock/dosbox-svn
@@ -385,9 +377,6 @@
 [submodule "libretro-fmsx"]
 	path = libretro-fmsx
 	url = https://github.com/madcock/libretro-fmsx
-[submodule "Gearboy"]
-	path = Gearboy
-	url = https://github.com/madcock/Gearboy
 [submodule "scummvm"]
 	path = scummvm
 	url = https://github.com/madcock/scummvm
@@ -466,3 +455,12 @@
 [submodule "hatariB"]
 	path = hatariB
 	url = https://github.com/madcock/hatariB
+[submodule "Gearboy"]
+	path = Gearboy
+	url = https://github.com/madcock/Gearboy
+[submodule "gpsp"]
+	path = gpsp
+	url = https://github.com/madcock/gpsp
+[submodule "dosbox-pure"]
+	path = dosbox-pure
+	url = https://github.com/madcock/dosbox-pure
