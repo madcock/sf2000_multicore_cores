@@ -467,3 +467,6 @@
 [submodule "libretro-geolith"]
 	path = libretro-geolith
 	url = https://github.com/madcock/libretro-geolith
+[submodule "libretro-doublecherryGB"]
+	path = libretro-doublecherryGB
+	url = https://github.com/madcock/libretro-doublecherryGB
