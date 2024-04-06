@@ -464,3 +464,6 @@
 [submodule "dosbox-pure"]
 	path = dosbox-pure
 	url = https://github.com/madcock/dosbox-pure
+[submodule "libretro-geolith"]
+	path = libretro-geolith
+	url = https://github.com/madcock/libretro-geolith
