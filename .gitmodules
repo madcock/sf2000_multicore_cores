@@ -158,10 +158,6 @@
 	path = libretro-imageviewer-legacy
 	url = https://github.com/madcock/libretro-imageviewer-legacy
 	branch = master
-[submodule "libretro-vecx"]
-	path = libretro-vecx
-	url = https://github.com/madcock/libretro-vecx
-	branch = master
 [submodule "fbalpha2012"]
 	path = fbalpha2012
 	url = https://github.com/madcock/fbalpha2012
