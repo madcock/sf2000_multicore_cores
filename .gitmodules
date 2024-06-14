@@ -2,10 +2,6 @@
 	path = libretro-2048
 	url = https://github.com/madcock/libretro-2048
 	branch = master
-[submodule "libretro-stella2014"]
-	path = libretro-stella2014
-	url = https://github.com/madcock/libretro-stella2014
-	branch = master
 [submodule "libretro-handy"]
 	path = libretro-handy
 	url = https://github.com/madcock/libretro-handy
@@ -109,10 +105,6 @@
 [submodule "libretro-nxengine"]
 	path = libretro-nxengine
 	url = https://github.com/madcock/libretro-nxengine
-	branch = master
-[submodule "libretro-prboom"]
-	path = libretro-prboom
-	url = https://github.com/madcock/libretro-prboom
 	branch = master
 [submodule "libretro-o2em"]
 	path = libretro-o2em
@@ -261,10 +253,6 @@
 [submodule "libretro-frodo"]
 	path = libretro-frodo
 	url = https://github.com/madcock/libretro-frodo
-	branch = master
-[submodule "libretro-vice"]
-	path = libretro-vice
-	url = https://github.com/madcock/libretro-vice
 	branch = master
 [submodule "dosbox-svn"]
 	path = dosbox-svn
@@ -466,3 +454,15 @@
 [submodule "libretro-fceumm"]
 	path = libretro-fceumm
 	url = https://github.com/madcock/libretro-fceumm
+[submodule "libretro-vecx"]
+	path = libretro-vecx
+	url = https://github.com/madcock/libretro-vecx
+[submodule "libretro-prboom"]
+	path = libretro-prboom
+	url = https://github.com/madcock/libretro-prboom
+[submodule "libretro-stella2014"]
+	path = libretro-stella2014
+	url = https://github.com/madcock/libretro-stella2014
+[submodule "libretro-vice"]
+	path = libretro-vice
+	url = https://github.com/madcock/libretro-vice
